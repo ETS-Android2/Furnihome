@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">MobileDevelopmentProject</string>
+    <string name="welcome_text">Welcome to Furnihome</string>
+    <string name="login_text">Log In</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="ARButton_Text">View furniture in AR</string>
+    <string name="Add_cart_text">Add to cart</string>
+
+    <string-array name="Chairs">
+        <item>Modern Chair</item>
+        <item>White Couch</item>
+        <item>Arm Chair</item>
+        <item>Leather Chair</item>
+        <item>Office Chair</item>
+        <item>Folding Chair</item>
+        <item>Bean Bag</item>
+        <item>Single Sofa</item>
+        <item>Sun Chair</item>
+        <item>Rocking Chair</item>
+    </string-array>
+
+    <string-array name="Chairs_Price">
+        <item>Dhs 380</item>
+        <item>Dhs 650</item>
+        <item>Dhs 795</item>
+        <item>Dhs 1200</item>
+        <item>Dhs 245</item>
+        <item>Dhs 85</item>
+        <item>Dhs 445</item>
+        <item>Dhs 245</item>
+        <item>Dhs 1400</item>
+        <item>Dhs 830</item>
+    </string-array>
+
+    <string-array name="Chairs_description">
+        <item>The timeless design of this Modern Chair makes it easy to place in various room settings and match with other furniture.</item>
+        <item>Cuddle up in the soft comfort of the White Couch. The generous size, low armrests and memory foam that adapts to the contours of your body invites to many hours of naps, socialising and relaxation.</item>
+        <item>Bringing new life to an old favourite. We first introduced this chair in the 1950’s. Some 60 years later we brought it back into the range with the same craftsmanship, comfort and appearance. Enjoy!</item>
+        <item>Simple, timeless design that’s still going strong after 40 years in our stores. It’s loved by all ages so we made a grown-up size and a children’s size. </item>
+        <item>Adjust the height and angle of this chair so your workday feels comfortable – the mesh backrest lets air through so you keep cool even when the workload rises. Built to outlast years of ups and downs.</item>
+        <item>This folding chair is great as an extra chair for unexpected guests or to bring to the next garden party. With a slim design and low weight, it’s also perfect to bring on a picnic.</item>
+        <item>You can use this beanbag in different ways. Fold it into an upright easy chair, or unfold it into a low lounger.</item>
+        <item>The Single Seater Sofa features a stunning curvaceous design balanced out with clean lines that effortlessly enhance the overall look and style of the set. </item>
+        <item>Place this sun lounger completely down to lie comfy and tan your back. Or recline it in 5 different positions to relax or read at an angle you like. Made of durable hardwood to add warmth and beauty.</item>
+        <item>Handwoven from rattan and ash makes each and every rocking chair one of a kind. The light shape and natural materials bring modern Scandinavian design to mind.</item>
+    </string-array>
+
+    <string-array name="Shelves">
+        <item>Wall Mounted Shelf</item>
+        <item>Big Cabinet Shelf</item>
+        <item>Storage Shelf</item>
+        <item>Rounded Shelf</item>
+        <item>Book Shelf</item>
+        <item>Modern Shelf</item>
+        <item>Cabinet Shelf</item>
+        <item>Display Rack Shelf</item>
+        <item>Branch Book Shelf</item>
+    </string-array>
+
+    <string-array name="Shelf_Prices">
+        <item>Dhs 990</item>
+        <item>Dhs 3875</item>
+        <item>Dhs 395</item>
+        <item>Dhs 250</item>
+        <item>Dhs 115</item>
+        <item>Dhs 2730</item>
+        <item>Dhs 445</item>
+        <item>Dhs 510</item>
+        <item>Dhs 195</item>
+    </string-array>
+
+    <string-array name="Shelf_descriptions">
+        <item>These clever little cubes are always ready to lend a hand, whether it is for storing, displaying or emptying your pockets. Go for it, in a colour that pops out or keep it discreet.</item>
+        <item>This sturdy shelving unit offers generous space for your office/home supplies and it also works great as a room divider. Goes perfectly with other furniture in the office/home space.</item>
+        <item>With plenty of space for storage, this shelving unit provides a neat look that makes eye-catchers of what you store – and take the chance since the colour is a limited offer!</item>
+        <item>Make good use of your empty place and enjoy a classic house style. Organize your photos, books and magazines on this decorative rounded shelf. Update your bathroom, living room and bedroom decor.</item>
+        <item>Loads of books but short of space? This shallow bookcase holds your series collections without taking up too much wall space. Perfect for bedrooms, hallways or smaller living areas.</item>
+        <item>Teak Wood shelves in brushed finish. Easy, simple and unique design, add additional shelving space and effortlessly. Suitable install at bedroom, living room, cafe bar, office etc.</item>
+        <item>Go ahead and put things aside for a while! A wall-mounted solution gives you plenty of space to store things and a surface to create an attractive display - or to unload serving dishes while you eat.</item>
+        <item>Your best choice ever! This supermarket display rack can be combined by single sided and double sided shelves.The space and load capacity for each tier are more large than common commercial shelves.</item>
+        <item>Our Display Storage Rack have plenty division shelves which could store all kinds of books, CDs, records and much more. Made of high quality particle board, non-formaldehyde, safe for your familys health.</item>
+    </string-array>
+
+    <string-array name="Desks">
+        <item>Birchwood Desk</item>
+        <item>Computer Desk</item>
+        <item>Decorated Desk</item>
+        <item>Black Metal Desk</item>
+        <item>Glass Desk</item>
+        <item>Office Desk</item>
+        <item>Wooden Desk</item>
+    </string-array>
+
+    <string-array name="Desk_Prices">
+        <item>Dhs 285</item>
+        <item>Dhs 570</item>
+        <item>Dhs 1100</item>
+        <item>Dhs 600</item>
+        <item>Dhs 180</item>
+        <item>Dhs 820</item>
+        <item>Dhs 410</item>
+    </string-array>
+
+    <string-array name="Desk_descriptions">
+        <item>A clean look that’s easy to like, coupled with a clever design that keeps messy cables out of sight. The back is finished so you can place it in the middle of the room – all sides are just as beautiful.</item>
+        <item>This sturdy desk is guaranteed to outlast years of coffee and hard work. You get a generous work surface and a clever solution to keep cables in place underneath.</item>
+        <item>This is the most popular and affordable choice of this long reception desk. These are high-pressure surfaces that are durable and scratch-resistant, topped with a beautiful design that demands attention.</item>
+        <item>The design characteristics of this timber wood reception desk are pursuing a simple, warm and very practical, rigorous in structure, unpretentious, considerate and elegant. </item>
+        <item>Made of tempered transparent glass and pitch pine wood brushed in white, hardwearing materials that give an open, airy feel. This desk is the one for you!</item>
+        <item>With a spacious and functional design, our desk sets a comfortable space for you to indulge in endless hours of productivity. A spacious rectangular surface and front board define its streamlined construction, while a grommet hole on the top keeps the cables intact.</item>
+        <item>Our writing desk perfectly sits in any corner of your home, thanks to its compact design. Its sturdy wooden structure is supported by metal sled legs for the utmost support and style.</item>
+    </string-array>
+
+    <string-array name="Beds">
+        <item>Rocking Bed</item>
+        <item>Canopy Double Bed</item>
+        <item>Round Bed</item>
+        <item>Student Desk/Bed</item>
+        <item>Suspended Bed</item>
+        <item>Kids Bunk bed</item>
+        <item>King size Bed</item>
+    </string-array>
+
+    <string-array name="Bed_Prices">
+        <item>Dhs 850</item>
+        <item>Dhs 4190</item>
+        <item>Dhs 1900</item>
+        <item>Dhs 1285</item>
+        <item>Dhs 2200</item>
+        <item>Dhs 910</item>
+        <item>Dhs 1390</item>
+    </string-array>
+
+    <string-array name="Bed_descriptions">
+        <item>Built for indoor or outdoor use, the Rocking Bed comes with a rubber stop that allows you to lock the bed in place or let it rock freely. Wood is natural hardwood that is finished in boiled linseed oil. The oil will keep the wood from rotting.</item>
+        <item>A clean design with solid wood veneer. Place the bed freestanding or with the headboard against a wall. You also get a canopy to provide you with the utmost privacy.</item>
+        <item>The Round bed is fully upholstered giving your bedroom plenty of texture and tone. The tufted detail and gentle design of the headboard add to its charm. The tufted headboard is perfect to lean against when you’re catching up on your reading, or late night emails.</item>
+        <item>Valued by parents for the compact footprint and beloved by teens for the fun factor, this twin loft bed with a desk offers a complete solution to your teen’s room.</item>
+        <item>Suspended beds are super easy to build! Not only is it an affordable build, but it can save you loads of room in a small space.  You can hang these beds closer to the ceiling to create more play room below</item>
+        <item>This affordable bunk bed is made of solid wood – a durable material that lasts for generations and can be recycled when children move away from home. Good for your wallet and our environment.</item>
+        <item>Anchor your bedroom in unique style with this upholstered platform bed. Built on a sturdy wood frame, this bed is upholstered in fabric that works in your current arrangement. The headboard is foam-filled and features scooped detailing with a nailhead trim</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

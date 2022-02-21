@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/furniture_imageview"
+        android:layout_width="80dp"
+        android:layout_height="120dp"
+        android:src="@drawable/couch"/>
+
+    <TextView
+        android:id="@+id/furniture_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/furniture_imageview"
+        android:text="White Couch"
+        android:textColor="@color/black"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/furniture_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/furniture_imageview"
+        android:layout_below="@+id/furniture_textview"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:textColor="@color/gold"
+        android:text="Dhs 650"
+        android:textSize="18sp"/>
+</RelativeLayout>
